@@ -1,0 +1,13 @@
+{
+  "name": "ghostkit-mcp",
+  "version": "1.0.0",
+  "description": "26 security tools for Claude, Cursor, and any MCP-compatible AI client. Powered by ghostkit.net.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.27.1"
+  }
+}
